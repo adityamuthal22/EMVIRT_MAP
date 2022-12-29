@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.map-container{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    max-height: 100%;
+    max-width: 100%;
+    margin: 1vh 1vw;
+}
+#navbar{
+    padding-top: 2vh;
+    height: 50px;
+    width: 100%;
+    background-color: orange;
+    
+}
+#navbar_Text{
+    text-align: center;
+    color: teal;
+    font-size: 30px;
+    align-item:center;
+}
+.logo{
+    height:50px;
+   padding:3px;
+}

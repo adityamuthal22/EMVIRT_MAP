@@ -11,7 +11,7 @@ import Box from '@mui/material/Box';
 
 
   const [mapViewport, setMapViewport] = useState({
-    marginTop:"60px",
+    marginTop:"80px",
     margin:"auto",
     height: "80vh",
     width: "100%",
